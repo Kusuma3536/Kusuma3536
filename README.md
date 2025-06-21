@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kusuma3536
-- 👀 I’m interested in Artificial Intelligence,webdevelopment, fullstack, frontend projects
+- 👀 I'm an Associate Software Engineer
 - 🌱 I’m currently learning Fullstack web development.
 - 📫 How to reach me @kusumanukalapu@gmail.com
 
